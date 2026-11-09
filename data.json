@@ -1,0 +1,16 @@
+{
+    "hospitals": {
+        "samsung": {
+            "name": "Samsung Medical Center",
+            "city": "Seoul"
+        },
+        "snu": {
+            "name": "Seoul National University Hospital",
+            "city": "Seoul"
+        },
+        "asan": {
+            "name": "Asan Medical Center",
+            "city": "Seoul"
+        }
+    }
+}
